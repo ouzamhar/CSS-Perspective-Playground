@@ -46,6 +46,7 @@ main input[type="range"] {
   margin-bottom: 10px;
   width: 200px;
   cursor: pointer;
+  accent-color: #dce96b;
 }
 section.settings {
   width: 50%;
@@ -72,6 +73,10 @@ button {
   border: none;
   margin-right: 10px;
   cursor: pointer;
+  border-radius: 12px;
+  display: inline-block;
+  width: 30%;
+  margin-top: 0.5em;
 }
 
 button:hover {
